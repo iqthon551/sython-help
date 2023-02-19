@@ -13,9 +13,9 @@ from help import *
 from config import *
 from threading import Thread
 
-a = 'qwertyuiopassdfghjklzxcvbnm'
+a = 'qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM'
 b = '1234567890'
-e = 'qwertyuiopassdfghjklzxcvbnm1234567890'
+e = 'qwertyuiopassdfghjklzxcvbnm1234567890QWERTYUIOPASDFGHJKLZXCVBNM'
 
 banned = []
 isclaim = ["off"]
